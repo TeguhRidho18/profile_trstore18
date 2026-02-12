@@ -1,0 +1,7 @@
+{
+  "name": "TRSTORE18 - Solusi Laptop Terpercaya",
+  "description": "Website resmi TRSTORE18 - Pusat jual beli, service, dan upgrade laptop profesional dengan pelayanan terbaik.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
